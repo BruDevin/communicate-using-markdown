@@ -12,3 +12,6 @@
 ```
 <div class="all_blue" style="color: blue; background-color: blue;">All blue</div>
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
